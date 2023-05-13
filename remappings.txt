@@ -1,0 +1,2 @@
+@openzeppelin/contracts=lib/openzeppelin-contracts/contracts/
+@interlay/bitcoin-spv-sol/contracts=node_modules/@interlay/bitcoin-spv-sol/contracts
